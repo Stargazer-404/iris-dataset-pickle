@@ -12,9 +12,9 @@ This is a simple Python project that:
 ---
 
 ## 📂 Project Structure
-├── iris_pickle.py # Main script with pickle & de-pickle functions
-├── my-iris.pkl # Pickled dataset (generated after running)
-└── README.md # Project documentation
+├── iris_pickle.py # Main script with pickle & de-pickle functions <br>
+├── my-iris.pkl # Pickled dataset (generated after running)<br>
+└── README.md # Project documentation<br>
 
 ## ⚙️ Requirements
 
